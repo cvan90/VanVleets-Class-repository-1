@@ -10,7 +10,7 @@ demo github website 1
 # github code repository
 - https://github.com/cvan90/VanVleets-Class-repository-1.git
 # github website url 
-- n/a
+- https://cvan90.github.io/VanVleets-Class-repository-1/
 # future improvements 
 - add responsive navigation menu 
 - add bootstrap tabs 
